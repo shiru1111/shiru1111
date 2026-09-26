@@ -1,4 +1,4 @@
-# Niel Reyes.
+# shiru
 
 > front-end developer. 
 > react • tailwind • javascript • python
@@ -18,7 +18,7 @@
 ### ⬡ stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiru1111&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="shiru1111's github stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=shiru1111&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="shiru1111's github stats" />
 </p>
 
 ---
