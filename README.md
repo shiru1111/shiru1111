@@ -1,6 +1,6 @@
 # shiru
 
-> front-end developer. 
+
 > react • tailwind • javascript • python
 
 ---
