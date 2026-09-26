@@ -1,4 +1,4 @@
-# niel reyes.
+# Niel Reyes.
 
 > front-end developer. 
 > react • tailwind • javascript • python
